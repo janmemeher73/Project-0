@@ -11,8 +11,8 @@ a:hover {
     text-decoration: underline;
 }
 .container {
-    height: 65vh;
-    margin-top: 70px;
+    height: 72vh;
+    margin-top: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -24,12 +24,11 @@ a:hover {
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 6px;
     height: 60px;
 }
 .links {
     align-self: flex-end;
-    padding: 20px;
+    padding: 16px;
 }
 .navbar a {
     padding: 14px;
@@ -51,7 +50,7 @@ a:hover {
     border-radius: 60px;
 }
 .search-bar i {
-    color: #0000009e;
+    color: #0000006a;
     font-size: 16px;
     padding: 8px 16px;
 }
@@ -60,9 +59,9 @@ a:hover {
     border: 1px solid rgba(0, 0, 0, 0.317);
 }
 #text {
-    width: 404px;
+    width: 508px;
     padding: 12px 23px 12px 0px;
-    font-size: 16px;
+    font-size: 17px;
     border: none;
     padding-left: 0;
 }
@@ -74,9 +73,9 @@ a:hover {
     display: flex;
 }
 .btn {
-    width: 167px;
-    margin: 40px 20px;
-    padding: 9px 28px;
+    width: 135px;
+    margin: 36px 20px;
+    padding: 8px 1px;
     border-radius: 4px;
     font-size: 13px;
     border: 1px solid #cadbea;
@@ -99,14 +98,14 @@ a:hover {
 }
 .left-footer p {
     margin: 5px 38px;
-    font-size: 21px;
+    font-size: 17px;
     color: #0000009e;
 }
 .footer-links {
     padding: 10px 30px;
 }
 .footer-links a {
-    font-size: 13px;
+    font-size: 15px;
     color: #0000009e;
     padding: 7px;
 }
